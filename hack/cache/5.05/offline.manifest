@@ -1,17 +1,17 @@
 CACHE MANIFEST
 
 CACHE:
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/expl.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/homebrew.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/index.html
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/js_shellcode.py
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/kernel.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/mira.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/README.md
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/rop.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/syscalls.js
-exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/userland.js
-exploits/5.05/Update%20Blocker/index.html
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/expl.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/homebrew.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/index.html
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/js_shellcode.py
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/kernel.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/mira.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/README.md
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/rop.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/syscalls.js
+/exploits/5.05/MIRA%20CFW%20+%20HEN%20v1/userland.js
+/exploits/5.05/Update%20Blocker/index.html
 
 NETWORK:
 *
